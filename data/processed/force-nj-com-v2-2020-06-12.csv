@@ -1,0 +1,548 @@
+dept_name,relative_url,full_url,likelihood_force_by_pop,likelihood_force_by_arrests,no_data_found,LA_numbers,NYC_numbers,Chicago_numbers
+"Aberdeen, Monmouth",/database/pd-dept/aberdeen-monmouth,http://force.nj.com/database/pd-dept/aberdeen-monmouth,294%,42%,,4,15,16
+"Absecon, Atlantic",/database/pd-dept/absecon-atlantic,http://force.nj.com/database/pd-dept/absecon-atlantic,583%,68%,,0,9,13
+"Allendale, Bergen",/database/pd-dept/allendale-bergen,http://force.nj.com/database/pd-dept/allendale-bergen,,8%,,0,2,3
+"Allenhurst, Monmouth",/database/pd-dept/allenhurst-monmouth,http://force.nj.com/database/pd-dept/allenhurst-monmouth,,,,0,4,4
+"Allentown, Monmouth",/database/pd-dept/allentown-monmouth,http://force.nj.com/database/pd-dept/allentown-monmouth,,,,0,1,1
+"Alpine, Bergen",/database/pd-dept/alpine-bergen,http://force.nj.com/database/pd-dept/alpine-bergen,,,,0,2,2
+"Andover Township, Sussex",/database/pd-dept/andover-township-sussex,http://force.nj.com/database/pd-dept/andover-township-sussex,,2%,,0,5,5
+"Asbury Park, Monmouth",/database/pd-dept/asbury-park-monmouth,http://force.nj.com/database/pd-dept/asbury-park-monmouth,96%,39%,,24,84,85
+"Atlantic City, Atlantic",/database/pd-dept/atlantic-city-atlantic,http://force.nj.com/database/pd-dept/atlantic-city-atlantic,35%,3%,,90,216,220
+"Atlantic Highlands, Monmouth",/database/pd-dept/atlantic-highlands-monmouth,http://force.nj.com/database/pd-dept/atlantic-highlands-monmouth,335%,69%,,0,3,4
+"Audubon, Camden",/database/pd-dept/audubon-camden,http://force.nj.com/database/pd-dept/audubon-camden,,,,0,2,2
+"Avalon, Cape May",/database/pd-dept/avalon-cape-may,http://force.nj.com/database/pd-dept/avalon-cape-may,,,,0,4,4
+"Avon-By-the-Sea, Monmouth",/database/pd-dept/avon-by-the-sea-monmouth,http://force.nj.com/database/pd-dept/avon-by-the-sea-monmouth,,,,0,7,7
+"Barnegat, Ocean",/database/pd-dept/barnegat-ocean,http://force.nj.com/database/pd-dept/barnegat-ocean,216%,9%,,0,20,23
+"Barrington, Camden",/database/pd-dept/barrington-camden,http://force.nj.com/database/pd-dept/barrington-camden,1147%,4%,,0,11,11
+"Bay Head, Ocean",/database/pd-dept/bay-head-ocean,http://force.nj.com/database/pd-dept/bay-head-ocean,,,,0,1,1
+"Bayonne, Hudson",/database/pd-dept/bayonne-hudson,http://force.nj.com/database/pd-dept/bayonne-hudson,108%,3%,,11,88,92
+"Beach Haven, Ocean",/database/pd-dept/beach-haven-ocean,http://force.nj.com/database/pd-dept/beach-haven-ocean,78%,286%,,0,7,8
+"Beachwood, Ocean",/database/pd-dept/beachwood-ocean,http://force.nj.com/database/pd-dept/beachwood-ocean,717%,63%,,0,14,15
+"Bedminster, Somerset",/database/pd-dept/bedminster-somerset,http://force.nj.com/database/pd-dept/bedminster-somerset,,353%,,0,1,2
+"Belleville, Essex",/database/pd-dept/belleville-essex,http://force.nj.com/database/pd-dept/belleville-essex,76%,89%,,12,64,66
+"Bellmawr, Camden",/database/pd-dept/bellmawr-camden,http://force.nj.com/database/pd-dept/bellmawr-camden,231%,47%,,0,7,13
+"Belmar, Monmouth",/database/pd-dept/belmar-monmouth,http://force.nj.com/database/pd-dept/belmar-monmouth,218%,28%,,2,31,32
+"Belvidere, Warren",/database/pd-dept/belvidere-warren,http://force.nj.com/database/pd-dept/belvidere-warren,,,,0,1,1
+"Bergenfield, Bergen",/database/pd-dept/bergenfield-bergen,http://force.nj.com/database/pd-dept/bergenfield-bergen,40%,17%,,0,13,14
+"Berkeley Heights, Union",/database/pd-dept/berkeley-heights-union,http://force.nj.com/database/pd-dept/berkeley-heights-union,,,,0,1,1
+"Berkeley, Ocean",/database/pd-dept/berkeley-ocean,http://force.nj.com/database/pd-dept/berkeley-ocean,41%,76%,,1,23,24
+"Berlin Borough, Camden",/database/pd-dept/berlin-borough-camden,http://force.nj.com/database/pd-dept/berlin-borough-camden,529%,14%,,1,10,11
+"Berlin Township, Camden",/database/pd-dept/berlin-township-camden,http://force.nj.com/database/pd-dept/berlin-township-camden,36%,31%,,0,6,6
+"Bernards, Somerset",/database/pd-dept/bernards-somerset,http://force.nj.com/database/pd-dept/bernards-somerset,779%,10%,,0,14,16
+"Bernardsville, Somerset",/database/pd-dept/bernardsville-somerset,http://force.nj.com/database/pd-dept/bernardsville-somerset,,,,0,4,4
+"Beverly, Burlington",/database/pd-dept/beverly-burlington,http://force.nj.com/database/pd-dept/beverly-burlington,924%,53%,,2,11,12
+"Blairstown, Warren",/database/pd-dept/blairstown-warren,http://force.nj.com/database/pd-dept/blairstown-warren,,,,0,2,2
+"Bloomfield, Essex",/database/pd-dept/bloomfield-essex,http://force.nj.com/database/pd-dept/bloomfield-essex,252%,83%,,15,60,63
+"Bloomingdale, Passaic",/database/pd-dept/bloomingdale-passaic,http://force.nj.com/database/pd-dept/bloomingdale-passaic,642%,79%,,0,8,9
+"Bogota, Bergen",/database/pd-dept/bogota-bergen,http://force.nj.com/database/pd-dept/bogota-bergen,68%,52%,,0,8,9
+"Boonton, Morris",/database/pd-dept/boonton-morris,http://force.nj.com/database/pd-dept/boonton-morris,747%,88%,,0,10,10
+"Boonton Township, Morris",/database/pd-dept/boonton-township-morris,http://force.nj.com/database/pd-dept/boonton-township-morris,,,,0,3,3
+"Bordentown Township, Burlington",/database/pd-dept/bordentown-township-burlington,http://force.nj.com/database/pd-dept/bordentown-township-burlington,367%,5%,,2,18,20
+"Bordentown City, Burlington",/database/pd-dept/bordentown-burlington,http://force.nj.com/database/pd-dept/bordentown-burlington,254%,35%,,0,6,6
+"Bound Brook, Somerset",/database/pd-dept/bound-brook-somerset,http://force.nj.com/database/pd-dept/bound-brook-somerset,527%,36%,,3,16,16
+"Bradley Beach, Monmouth",/database/pd-dept/bradley-beach-monmouth,http://force.nj.com/database/pd-dept/bradley-beach-monmouth,925%,54%,,1,12,14
+"Branchburg, Somerset",/database/pd-dept/branchburg-somerset,http://force.nj.com/database/pd-dept/branchburg-somerset,150%,37%,,0,8,9
+"Brick, Ocean",/database/pd-dept/brick-ocean,http://force.nj.com/database/pd-dept/brick-ocean,457%,39%,,3,64,67
+"Bridgeton City, Cumberland",/database/pd-dept/bridgeton-city-cumberland,http://force.nj.com/database/pd-dept/bridgeton-city-cumberland,1%,39%,,19,41,56
+"Bridgewater, Somerset",/database/pd-dept/bridgewater-somerset,http://force.nj.com/database/pd-dept/bridgewater-somerset,994%,15%,,0,36,37
+"Brielle, Monmouth",/database/pd-dept/brielle-monmouth,http://force.nj.com/database/pd-dept/brielle-monmouth,,681%,,0,2,2
+"Brigantine Beach, Atlantic",/database/pd-dept/brigantine-beach-atlantic,http://force.nj.com/database/pd-dept/brigantine-beach-atlantic,974%,50%,,0,13,13
+"Brooklawn, Camden",/database/pd-dept/brooklawn-camden,http://force.nj.com/database/pd-dept/brooklawn-camden,427%,4%,,2,9,10
+"Buena Borough, Atlantic",/database/pd-dept/buena-borough-atlantic,http://force.nj.com/database/pd-dept/buena-borough-atlantic,838%,145%,,1,3,7
+"Burlington City, Burlington",/database/pd-dept/burlington-city-burlington,http://force.nj.com/database/pd-dept/burlington-city-burlington,497%,27%,,2,29,30
+"Burlington Township, Burlington",/database/pd-dept/burlington-town-burlington,http://force.nj.com/database/pd-dept/burlington-town-burlington,215%,10%,,0,26,26
+"Butler, Morris",/database/pd-dept/butler-morris,http://force.nj.com/database/pd-dept/butler-morris,,43%,,0,6,6
+"Byram, Sussex",/database/pd-dept/byram-sussex,http://force.nj.com/database/pd-dept/byram-sussex,3922%,7%,,1,5,6
+"Caldwell, Essex",/database/pd-dept/caldwell-essex,http://force.nj.com/database/pd-dept/caldwell-essex,101%,17%,,0,15,15
+"Camden, Camden",/database/pd-dept/camden-camden,http://force.nj.com/database/pd-dept/camden-camden,8%,447%,,132,307,325
+"Cape May & Cape May Point & West Cape May, Cape May",/database/pd-dept/cape-may-cape-may,http://force.nj.com/database/pd-dept/cape-may-cape-may,373%,75%,,1,15,16
+"Carlstadt, Bergen",/database/pd-dept/carlstadt-bergen,http://force.nj.com/database/pd-dept/carlstadt-bergen,,36%,,0,4,5
+"Carney's Point, Salem",/database/pd-dept/carney-s-point-salem,http://force.nj.com/database/pd-dept/carney-s-point-salem,238%,45%,,1,13,14
+"Carteret, Middlesex",/database/pd-dept/carteret-middlesex,http://force.nj.com/database/pd-dept/carteret-middlesex,103%,38%,,5,34,36
+"Cedar Grove, Essex",/database/pd-dept/cedar-grove-essex,http://force.nj.com/database/pd-dept/cedar-grove-essex,359%,14%,,0,7,8
+"Chatham Borough, Morris",/database/pd-dept/chatham-borough-morris,http://force.nj.com/database/pd-dept/chatham-borough-morris,502%,78%,,0,6,6
+"Chatham Township, Morris",/database/pd-dept/chatham-township-morris,http://force.nj.com/database/pd-dept/chatham-township-morris,,,,0,0,0
+"Cherry Hill, Camden",/database/pd-dept/cherry-hill-camden,http://force.nj.com/database/pd-dept/cherry-hill-camden,464%,21%,,3,79,80
+"Chesilhurst, Camden",/database/pd-dept/chesilhurst-camden,http://force.nj.com/database/pd-dept/chesilhurst-camden,,,,0,2,2
+"Chester Township & Chester Borough, Morris",/database/pd-dept/chester-township-morris,http://force.nj.com/database/pd-dept/chester-township-morris,,,,0,4,5
+"Chesterfield, Burlington",/database/pd-dept/chesterfield-burlington,http://force.nj.com/database/pd-dept/chesterfield-burlington,,,,0,2,2
+"Cinnaminson, Burlington",/database/pd-dept/cinnaminson-burlington,http://force.nj.com/database/pd-dept/cinnaminson-burlington,568%,45%,,1,15,15
+"Clark, Union",/database/pd-dept/clark-union,http://force.nj.com/database/pd-dept/clark-union,2046%,23%,,1,20,21
+"Clayton, Gloucester",/database/pd-dept/clayton-gloucester,http://force.nj.com/database/pd-dept/clayton-gloucester,176%,12%,,0,5,8
+"Clementon, Camden",/database/pd-dept/clementon-camden,http://force.nj.com/database/pd-dept/clementon-camden,148%,106%,,0,3,4
+"Cliffside Park, Bergen",/database/pd-dept/cliffside-park-bergen,http://force.nj.com/database/pd-dept/cliffside-park-bergen,50%,49%,,1,26,28
+"Clifton, Passaic",/database/pd-dept/clifton-passaic,http://force.nj.com/database/pd-dept/clifton-passaic,118%,29%,,10,74,76
+"Clinton Township, Hunterdon",/database/pd-dept/clinton-township-hunterdon,http://force.nj.com/database/pd-dept/clinton-township-hunterdon,52%,63%,,0,10,10
+"Closter, Bergen",/database/pd-dept/closter-bergen,http://force.nj.com/database/pd-dept/closter-bergen,,12%,,0,4,4
+"Collingswood, Camden",/database/pd-dept/collingswood-camden,http://force.nj.com/database/pd-dept/collingswood-camden,257%,16%,,0,9,9
+"Colts Neck, Monmouth",/database/pd-dept/colts-neck-monmouth,http://force.nj.com/database/pd-dept/colts-neck-monmouth,,,,0,2,2
+"Cranbury, Middlesex",/database/pd-dept/cranbury-middlesex,http://force.nj.com/database/pd-dept/cranbury-middlesex,,15%,,0,7,7
+"Cranford, Union",/database/pd-dept/cranford-union,http://force.nj.com/database/pd-dept/cranford-union,1421%,14%,,0,20,21
+"Cresskill, Bergen",/database/pd-dept/cresskill-bergen,http://force.nj.com/database/pd-dept/cresskill-bergen,2255%,123%,,0,7,7
+"Deal, Interlaken & Loch Arbour Village, Monmouth",/database/pd-dept/deal-monmouth,http://force.nj.com/database/pd-dept/deal-monmouth,3199%,33%,,0,7,7
+"Delanco, Burlington",/database/pd-dept/delanco-burlington,http://force.nj.com/database/pd-dept/delanco-burlington,312%,34%,,0,6,7
+"Delaware, Hunterdon",/database/pd-dept/delaware-hunterdon,http://force.nj.com/database/pd-dept/delaware-hunterdon,,,,0,2,2
+"Delran, Burlington",/database/pd-dept/delran-burlington,http://force.nj.com/database/pd-dept/delran-burlington,276%,25%,,0,15,16
+"Demarest, Bergen",/database/pd-dept/demarest-bergen,http://force.nj.com/database/pd-dept/demarest-bergen,,,,0,1,1
+"Denville, Morris",/database/pd-dept/denville-morris,http://force.nj.com/database/pd-dept/denville-morris,237%,40%,,0,8,8
+"Deptford, Gloucester",/database/pd-dept/deptford-gloucester,http://force.nj.com/database/pd-dept/deptford-gloucester,181%,8%,,6,28,35
+"Dover, Morris",/database/pd-dept/dover-morris,http://force.nj.com/database/pd-dept/dover-morris,33%,1%,,6,19,22
+"Dumont, Bergen",/database/pd-dept/dumont-bergen,http://force.nj.com/database/pd-dept/dumont-bergen,74%,28%,,0,8,8
+"Dunellen, Middlesex",/database/pd-dept/dunellen-middlesex,http://force.nj.com/database/pd-dept/dunellen-middlesex,10%,31%,,3,15,15
+"East Brunswick, Middlesex",/database/pd-dept/east-brunswick-middlesex,http://force.nj.com/database/pd-dept/east-brunswick-middlesex,308%,3%,,2,45,45
+"East Greenwich, Gloucester",/database/pd-dept/east-greenwich-gloucester,http://force.nj.com/database/pd-dept/east-greenwich-gloucester,340%,39%,,0,5,6
+"East Hanover, Morris",/database/pd-dept/east-hanover-morris,http://force.nj.com/database/pd-dept/east-hanover-morris,,54%,,0,4,5
+"East Newark, Hudson",/database/pd-dept/east-newark-hudson,http://force.nj.com/database/pd-dept/east-newark-hudson,,,,0,1,2
+"East Orange, Essex",/database/pd-dept/east-orange-essex,http://force.nj.com/database/pd-dept/east-orange-essex,238%,454%,,13,113,114
+"East Rutherford, Bergen",/database/pd-dept/east-rutherford-bergen,http://force.nj.com/database/pd-dept/east-rutherford-bergen,113%,39%,,0,9,9
+"East Windsor, Mercer",/database/pd-dept/east-windsor-mercer,http://force.nj.com/database/pd-dept/east-windsor-mercer,125%,46%,,2,17,18
+"Eastampton, Burlington",/database/pd-dept/eastampton-burlington,http://force.nj.com/database/pd-dept/eastampton-burlington,,,,0,4,4
+"Eatontown, Monmouth",/database/pd-dept/eatontown-monmouth,http://force.nj.com/database/pd-dept/eatontown-monmouth,482%,2%,,4,18,21
+"Edgewater Park, Burlington",/database/pd-dept/edgewater-park-burlington,http://force.nj.com/database/pd-dept/edgewater-park-burlington,107%,3%,,0,11,11
+"Edgewater, Bergen",/database/pd-dept/edgewater-bergen,http://force.nj.com/database/pd-dept/edgewater-bergen,4%,25%,,1,14,14
+"Edison, Middlesex",/database/pd-dept/edison-middlesex,http://force.nj.com/database/pd-dept/edison-middlesex,161%,5%,,6,91,93
+"Egg Harbor City, Atlantic",/database/pd-dept/egg-harbor-city-atlantic,http://force.nj.com/database/pd-dept/egg-harbor-city-atlantic,239%,154%,,0,9,12
+"Egg Harbor Township, Atlantic",/database/pd-dept/egg-harbor-township-atlantic,http://force.nj.com/database/pd-dept/egg-harbor-township-atlantic,390%,34%,,4,57,60
+"Elizabeth, Union",/database/pd-dept/elizabeth-union,http://force.nj.com/database/pd-dept/elizabeth-union,76%,71%,,49,155,185
+"Elk, Gloucester",/database/pd-dept/elk-gloucester,http://force.nj.com/database/pd-dept/elk-gloucester,,,,0,1,3
+"Elmwood Park, Bergen",/database/pd-dept/elmwood-park-bergen,http://force.nj.com/database/pd-dept/elmwood-park-bergen,341%,111%,,0,21,21
+"Emerson, Bergen",/database/pd-dept/emerson-bergen,http://force.nj.com/database/pd-dept/emerson-bergen,,,,0,0,0
+"Englewood Cliffs, Bergen",/database/pd-dept/englewood-cliffs-bergen,http://force.nj.com/database/pd-dept/englewood-cliffs-bergen,,739%,,0,9,9
+"Englewood, Bergen",/database/pd-dept/englewood-bergen,http://force.nj.com/database/pd-dept/englewood-bergen,187%,28%,,0,29,30
+"Englishtown, Monmouth",/database/pd-dept/englishtown-monmouth,http://force.nj.com/database/pd-dept/englishtown-monmouth,430%,27%,,0,4,4
+"Essex Fells, Essex",/database/pd-dept/essex-fells-essex,http://force.nj.com/database/pd-dept/essex-fells-essex,,,,0,1,1
+"Evesham, Burlington",/database/pd-dept/evesham-burlington,http://force.nj.com/database/pd-dept/evesham-burlington,239%,24%,,14,56,56
+"Ewing, Mercer",/database/pd-dept/ewing-mercer,http://force.nj.com/database/pd-dept/ewing-mercer,371%,12%,,4,45,48
+"Fair Haven, Monmouth",/database/pd-dept/fair-haven-monmouth,http://force.nj.com/database/pd-dept/fair-haven-monmouth,,,,0,6,7
+"Fairfield, Essex",/database/pd-dept/fairfield-essex,http://force.nj.com/database/pd-dept/fairfield-essex,,57%,,0,20,21
+"Fairlawn, Bergen",/database/pd-dept/fairlawn-bergen,http://force.nj.com/database/pd-dept/fairlawn-bergen,498%,30%,,0,18,19
+"Fairview, Bergen",/database/pd-dept/fairview-bergen,http://force.nj.com/database/pd-dept/fairview-bergen,72%,42%,,0,10,11
+"Fanwood, Union",/database/pd-dept/fanwood-union,http://force.nj.com/database/pd-dept/fanwood-union,390%,13%,,0,5,5
+"Far Hills, Somerset",/database/pd-dept/far-hills-somerset,http://force.nj.com/database/pd-dept/far-hills-somerset,,,,0,1,1
+"Flemington, Hunterdon",/database/pd-dept/flemington-hunterdon,http://force.nj.com/database/pd-dept/flemington-hunterdon,223%,2%,,0,9,9
+"Florence, Burlington",/database/pd-dept/florence-burlington,http://force.nj.com/database/pd-dept/florence-burlington,324%,17%,,0,8,9
+"Florham Park, Morris",/database/pd-dept/florham-park-morris,http://force.nj.com/database/pd-dept/florham-park-morris,273%,43%,,0,8,8
+"Fort Lee, Bergen",/database/pd-dept/fort-lee-bergen,http://force.nj.com/database/pd-dept/fort-lee-bergen,307%,5%,,2,42,43
+"Franklin, Sussex",/database/pd-dept/franklin-sussex,http://force.nj.com/database/pd-dept/franklin-sussex,15%,28%,,0,9,9
+"Franklin Lakes, Bergen",/database/pd-dept/franklin-lakes-bergen,http://force.nj.com/database/pd-dept/franklin-lakes-bergen,,123%,,0,6,6
+"Franklin, Gloucester",/database/pd-dept/franklin-gloucester,http://force.nj.com/database/pd-dept/franklin-gloucester,20%,56%,,1,17,17
+"Franklin, Somerset",/database/pd-dept/franklin-somerset,http://force.nj.com/database/pd-dept/franklin-somerset,202%,9%,,1,45,49
+"Freehold Borough, Monmouth",/database/pd-dept/freehold-borough-monmouth,http://force.nj.com/database/pd-dept/freehold-borough-monmouth,110%,44%,,1,12,17
+"Freehold Township, Monmouth",/database/pd-dept/freehold-township-monmouth,http://force.nj.com/database/pd-dept/freehold-township-monmouth,454%,89%,,0,23,25
+"Frenchtown, Hunterdon",/database/pd-dept/frenchtown-hunterdon,http://force.nj.com/database/pd-dept/frenchtown-hunterdon,,,,0,2,2
+"Galloway, Atlantic",/database/pd-dept/galloway-atlantic,http://force.nj.com/database/pd-dept/galloway-atlantic,173%,19%,,4,43,43
+"Garfield, Bergen",/database/pd-dept/garfield-bergen,http://force.nj.com/database/pd-dept/garfield-bergen,95%,24%,,2,28,29
+"Garwood, Union",/database/pd-dept/garwood-union,http://force.nj.com/database/pd-dept/garwood-union,,92%,,0,6,6
+"Gibbsboro, Camden",/database/pd-dept/gibbsboro-camden,http://force.nj.com/database/pd-dept/gibbsboro-camden,,1%,,0,5,6
+"Glassboro, Gloucester",/database/pd-dept/glassboro-gloucester,http://force.nj.com/database/pd-dept/glassboro-gloucester,354%,77%,,25,40,41
+"Glen Ridge, Essex",/database/pd-dept/glen-ridge-essex,http://force.nj.com/database/pd-dept/glen-ridge-essex,2498%,67%,,0,8,8
+"Glen Rock, Bergen",/database/pd-dept/glen-rock-bergen,http://force.nj.com/database/pd-dept/glen-rock-bergen,,31%,,0,11,11
+"Gloucester City, Camden",/database/pd-dept/gloucester-city-camden,http://force.nj.com/database/pd-dept/gloucester-city-camden,449%,137%,,4,14,18
+"Gloucester Township, Camden",/database/pd-dept/gloucester-township-camden,http://force.nj.com/database/pd-dept/gloucester-township-camden,270%,25%,,23,71,76
+"Green Brook, Somerset",/database/pd-dept/green-brook-somerset,http://force.nj.com/database/pd-dept/green-brook-somerset,293%,32%,,1,11,11
+"Greenwich, Gloucester",/database/pd-dept/greenwich-gloucester,http://force.nj.com/database/pd-dept/greenwich-gloucester,501%,4%,,0,8,8
+"Greenwich, Warren",/database/pd-dept/greenwich-warren,http://force.nj.com/database/pd-dept/greenwich-warren,,,,0,0,1
+"Guttenberg, Hudson",/database/pd-dept/guttenberg-hudson,http://force.nj.com/database/pd-dept/guttenberg-hudson,92%,10%,,1,11,12
+"Hackensack, Bergen",/database/pd-dept/hackensack-bergen,http://force.nj.com/database/pd-dept/hackensack-bergen,189%,216%,,3,65,68
+"Hackettstown, Warren",/database/pd-dept/hackettstown-warren,http://force.nj.com/database/pd-dept/hackettstown-warren,,,,0,5,5
+"Haddon Heights, Camden",/database/pd-dept/haddon-heights-camden,http://force.nj.com/database/pd-dept/haddon-heights-camden,,18%,,0,2,3
+"Haddon & Audubon Park, Camden",/database/pd-dept/haddon-camden,http://force.nj.com/database/pd-dept/haddon-camden,2052%,59%,,0,10,10
+"Haddonfield & Tavistock, Camden",/database/pd-dept/haddonfield-camden,http://force.nj.com/database/pd-dept/haddonfield-camden,,191%,,0,3,3
+"Haledon, Passaic",/database/pd-dept/haledon-passaic,http://force.nj.com/database/pd-dept/haledon-passaic,869%,242%,,5,15,15
+"Hamburg, Sussex",/database/pd-dept/hamburg-sussex,http://force.nj.com/database/pd-dept/hamburg-sussex,,32%,,0,6,6
+"Hamilton, Atlantic",/database/pd-dept/hamilton-atlantic,http://force.nj.com/database/pd-dept/hamilton-atlantic,100%,11%,,6,29,34
+"Hamilton, Mercer",/database/pd-dept/hamilton-mercer,http://force.nj.com/database/pd-dept/hamilton-mercer,304%,23%,,16,105,109
+"Hammonton, Atlantic",/database/pd-dept/hammonton-atlantic,http://force.nj.com/database/pd-dept/hammonton-atlantic,9%,40%,,0,16,16
+"Hanover, Morris",/database/pd-dept/hanover-morris,http://force.nj.com/database/pd-dept/hanover-morris,4005%,38%,,1,11,11
+"Harding, Morris",/database/pd-dept/harding-morris,http://force.nj.com/database/pd-dept/harding-morris,,109%,,0,3,3
+"Hardyston, Sussex",/database/pd-dept/hardyston-sussex,http://force.nj.com/database/pd-dept/hardyston-sussex,,16%,,0,2,2
+"Harrington Park, Bergen",/database/pd-dept/harrington-park-bergen,http://force.nj.com/database/pd-dept/harrington-park-bergen,,,,0,0,0
+"Harrison, Gloucester",/database/pd-dept/harrison-gloucester,http://force.nj.com/database/pd-dept/harrison-gloucester,,101%,,0,6,7
+"Harrison, Hudson",/database/pd-dept/harrison-hudson,http://force.nj.com/database/pd-dept/harrison-hudson,23%,65%,,0,21,21
+"Harvey Cedars, Ocean",/database/pd-dept/harvey-cedars-ocean,http://force.nj.com/database/pd-dept/harvey-cedars-ocean,,511%,,0,2,2
+"Hasbrouck Heights, Bergen",/database/pd-dept/hasbrouck-heights-bergen,http://force.nj.com/database/pd-dept/hasbrouck-heights-bergen,556%,17%,,0,9,10
+"Haworth, Bergen",/database/pd-dept/haworth-bergen,http://force.nj.com/database/pd-dept/haworth-bergen,,,,0,2,2
+"Hawthorne, Passaic",/database/pd-dept/hawthorne-passaic,http://force.nj.com/database/pd-dept/hawthorne-passaic,211%,39%,,2,11,11
+"Hazlet, Monmouth",/database/pd-dept/hazlet-monmouth,http://force.nj.com/database/pd-dept/hazlet-monmouth,73%,47%,,0,12,13
+"Helmetta, Middlesex",/database/pd-dept/helmetta-middlesex,http://force.nj.com/database/pd-dept/helmetta-middlesex,,26%,,1,2,2
+"High Bridge, Hunterdon",/database/pd-dept/high-bridge-hunterdon,http://force.nj.com/database/pd-dept/high-bridge-hunterdon,,38%,,0,4,4
+"Highland Park, Middlesex",/database/pd-dept/highland-park-middlesex,http://force.nj.com/database/pd-dept/highland-park-middlesex,1033%,51%,,0,9,10
+"Highlands, Monmouth",/database/pd-dept/highlands-monmouth,http://force.nj.com/database/pd-dept/highlands-monmouth,163%,52%,,0,8,8
+"Hightstown, Mercer",/database/pd-dept/hightstown-mercer,http://force.nj.com/database/pd-dept/hightstown-mercer,102%,30%,,1,8,8
+"Hillsborough, Somerset",/database/pd-dept/hillsborough-somerset,http://force.nj.com/database/pd-dept/hillsborough-somerset,143%,10%,,0,22,24
+"Hillsdale, Bergen",/database/pd-dept/hillsdale-bergen,http://force.nj.com/database/pd-dept/hillsdale-bergen,,304%,,0,6,6
+"Hillside, Union",/database/pd-dept/hillside-union,http://force.nj.com/database/pd-dept/hillside-union,75%,74%,,3,29,29
+"Ho-Ho-Kus, Bergen",/database/pd-dept/ho-ho-kus-bergen,http://force.nj.com/database/pd-dept/ho-ho-kus-bergen,,10%,,0,3,3
+"Hoboken, Hudson",/database/pd-dept/hoboken-hudson,http://force.nj.com/database/pd-dept/hoboken-hudson,1543%,23%,,15,95,97
+"Holmdel, Monmouth",/database/pd-dept/holmdel-monmouth,http://force.nj.com/database/pd-dept/holmdel-monmouth,349%,64%,,0,11,11
+"Hopatcong, Sussex",/database/pd-dept/hopatcong-sussex,http://force.nj.com/database/pd-dept/hopatcong-sussex,375%,78%,,3,18,18
+"Hopewell Township & Hopewell Borough, Mercer",/database/pd-dept/hopewell-township-mercer,http://force.nj.com/database/pd-dept/hopewell-township-mercer,69%,57%,,0,16,16
+"Howell, Monmouth",/database/pd-dept/howell-monmouth,http://force.nj.com/database/pd-dept/howell-monmouth,396%,9%,,9,44,45
+"Independence, Warren",/database/pd-dept/independence-warren,http://force.nj.com/database/pd-dept/independence-warren,,,,0,3,3
+"Irvington, Essex",/database/pd-dept/irvington-essex,http://force.nj.com/database/pd-dept/irvington-essex,27%,46%,,8,97,107
+"Island Heights, Ocean",/database/pd-dept/island-heights-ocean,http://force.nj.com/database/pd-dept/island-heights-ocean,,,,0,1,1
+"Jackson, Ocean",/database/pd-dept/jackson-ocean,http://force.nj.com/database/pd-dept/jackson-ocean,180%,13%,,5,58,58
+"Jamesburg, Middlesex",/database/pd-dept/jamesburg-middlesex,http://force.nj.com/database/pd-dept/jamesburg-middlesex,15%,43%,,0,7,8
+"Jefferson, Morris",/database/pd-dept/jefferson-morris,http://force.nj.com/database/pd-dept/jefferson-morris,270%,12%,,0,19,21
+"Jersey City, Hudson",/database/pd-dept/jersey-city-hudson,http://force.nj.com/database/pd-dept/jersey-city-hudson,489%,192%,,13,249,257
+"Keansburg, Monmouth",/database/pd-dept/keansburg-monmouth,http://force.nj.com/database/pd-dept/keansburg-monmouth,306%,90%,,1,16,21
+"Kearny, Hudson",/database/pd-dept/kearny-hudson,http://force.nj.com/database/pd-dept/kearny-hudson,151%,7%,,0,27,40
+"Kenilworth, Union",/database/pd-dept/kenilworth-union,http://force.nj.com/database/pd-dept/kenilworth-union,221%,22%,,0,5,6
+"Keyport, Monmouth",/database/pd-dept/keyport-monmouth,http://force.nj.com/database/pd-dept/keyport-monmouth,,67%,,0,5,5
+"Kinnelon, Morris",/database/pd-dept/kinnelon-morris,http://force.nj.com/database/pd-dept/kinnelon-morris,,130%,,0,4,4
+"Lacey, Ocean",/database/pd-dept/lacey-ocean,http://force.nj.com/database/pd-dept/lacey-ocean,1439%,105%,,5,26,27
+"Lake Como, Monmouth",/database/pd-dept/lake-como-monmouth,http://force.nj.com/database/pd-dept/lake-como-monmouth,340%,182%,,3,8,9
+"Lakehurst, Ocean",/database/pd-dept/lakehurst-ocean,http://force.nj.com/database/pd-dept/lakehurst-ocean,575%,211%,,0,7,8
+"Lakewood, Ocean",/database/pd-dept/lakewood-ocean,http://force.nj.com/database/pd-dept/lakewood-ocean,2104%,138%,,26,75,81
+"Lambertville, Hunterdon",/database/pd-dept/lambertville-hunterdon,http://force.nj.com/database/pd-dept/lambertville-hunterdon,,,,0,4,4
+"Laurel Springs, Camden",/database/pd-dept/laurel-springs-camden,http://force.nj.com/database/pd-dept/laurel-springs-camden,,,,0,1,2
+"Lavallette, Ocean",/database/pd-dept/lavallette-ocean,http://force.nj.com/database/pd-dept/lavallette-ocean,,94%,,0,5,5
+"Lawrence, Mercer",/database/pd-dept/lawrence-mercer,http://force.nj.com/database/pd-dept/lawrence-mercer,521%,38%,,10,46,49
+"Lebanon Township, Hunterdon",/database/pd-dept/lebanon-hunterdon,http://force.nj.com/database/pd-dept/lebanon-hunterdon,,,,0,1,1
+"Leonia, Bergen",/database/pd-dept/leonia-bergen,http://force.nj.com/database/pd-dept/leonia-bergen,,224%,,0,5,5
+"Lincoln Park, Morris",/database/pd-dept/lincoln-park-morris,http://force.nj.com/database/pd-dept/lincoln-park-morris,,,,0,8,8
+"Linden, Union",/database/pd-dept/linden-union,http://force.nj.com/database/pd-dept/linden-union,64%,38%,,6,42,46
+"Lindenwold, Camden",/database/pd-dept/lindenwold-camden,http://force.nj.com/database/pd-dept/lindenwold-camden,70%,37%,,15,34,36
+"Linwood, Atlantic",/database/pd-dept/linwood-atlantic,http://force.nj.com/database/pd-dept/linwood-atlantic,882%,24%,,0,6,6
+"Little Egg Harbor, Ocean",/database/pd-dept/little-egg-harbor-ocean,http://force.nj.com/database/pd-dept/little-egg-harbor-ocean,4500%,31%,,5,32,32
+"Little Falls, Passaic",/database/pd-dept/little-falls-passaic,http://force.nj.com/database/pd-dept/little-falls-passaic,131%,2%,,1,9,9
+"Little Ferry, Bergen",/database/pd-dept/little-ferry-bergen,http://force.nj.com/database/pd-dept/little-ferry-bergen,357%,103%,,0,10,10
+"Little Silver, Monmouth",/database/pd-dept/little-silver-monmouth,http://force.nj.com/database/pd-dept/little-silver-monmouth,,19%,,0,5,5
+"Livingston, Essex",/database/pd-dept/livingston-essex,http://force.nj.com/database/pd-dept/livingston-essex,3424%,31%,,2,21,22
+"Lodi, Bergen",/database/pd-dept/lodi-bergen,http://force.nj.com/database/pd-dept/lodi-bergen,22%,42%,,1,21,24
+"Logan, Gloucester",/database/pd-dept/logan-gloucester,http://force.nj.com/database/pd-dept/logan-gloucester,201%,,,0,6,9
+"Long Beach  & Barnegat Light, Ocean",/database/pd-dept/long-beach-ocean,http://force.nj.com/database/pd-dept/long-beach-ocean,,,,0,12,12
+"Long Branch, Monmouth",/database/pd-dept/long-branch-monmouth,http://force.nj.com/database/pd-dept/long-branch-monmouth,152%,9%,,16,69,75
+"Long Hill, Morris",/database/pd-dept/long-hill-morris,http://force.nj.com/database/pd-dept/long-hill-morris,,,,0,3,3
+"Longport, Atlantic",/database/pd-dept/longport-atlantic,http://force.nj.com/database/pd-dept/longport-atlantic,,,,0,2,3
+"Lopatcong, Warren",/database/pd-dept/lopatcong-warren,http://force.nj.com/database/pd-dept/lopatcong-warren,,274%,,0,6,7
+"Lower Alloways Creek & Elsinboro, Salem",/database/pd-dept/lower-alloways-creek-salem,http://force.nj.com/database/pd-dept/lower-alloways-creek-salem,,,,0,2,2
+"Lower Township, Cape May",/database/pd-dept/lower-township-cape-may,http://force.nj.com/database/pd-dept/lower-township-cape-may,163%,47%,,1,28,30
+"Lumberton, Burlington",/database/pd-dept/lumberton-burlington,http://force.nj.com/database/pd-dept/lumberton-burlington,533%,123%,,1,11,11
+"Lyndhurst, Bergen",/database/pd-dept/lyndhurst-bergen,http://force.nj.com/database/pd-dept/lyndhurst-bergen,857%,48%,,1,19,20
+"Madison, Morris",/database/pd-dept/madison-morris,http://force.nj.com/database/pd-dept/madison-morris,199%,9%,,1,10,11
+"Magnolia, Camden",/database/pd-dept/magnolia-camden,http://force.nj.com/database/pd-dept/magnolia-camden,138%,4%,,0,4,5
+"Mahwah, Bergen",/database/pd-dept/mahwah-bergen,http://force.nj.com/database/pd-dept/mahwah-bergen,615%,91%,,0,18,19
+"Manalapan, Monmouth",/database/pd-dept/manalapan-monmouth,http://force.nj.com/database/pd-dept/manalapan-monmouth,627%,35%,,0,9,10
+"Manasquan, Monmouth",/database/pd-dept/manasquan-monmouth,http://force.nj.com/database/pd-dept/manasquan-monmouth,556%,62%,,3,21,21
+"Manchester, Ocean",/database/pd-dept/manchester-ocean,http://force.nj.com/database/pd-dept/manchester-ocean,153%,12%,,5,47,48
+"Mansfield, Burlington",/database/pd-dept/mansfield-burlington,http://force.nj.com/database/pd-dept/mansfield-burlington,,,,0,2,2
+"Mansfield, Warren",/database/pd-dept/mansfield-warren,http://force.nj.com/database/pd-dept/mansfield-warren,18%,41%,,0,10,10
+"Mantoloking, Ocean",/database/pd-dept/mantoloking-ocean,http://force.nj.com/database/pd-dept/mantoloking-ocean,,,,0,0,0
+"Mantua, Gloucester",/database/pd-dept/mantua-gloucester,http://force.nj.com/database/pd-dept/mantua-gloucester,357%,22%,,2,16,16
+"Manville, Somerset",/database/pd-dept/manville-somerset,http://force.nj.com/database/pd-dept/manville-somerset,916%,102%,,0,14,14
+"Maple Shade, Burlington",/database/pd-dept/maple-shade-burlington,http://force.nj.com/database/pd-dept/maple-shade-burlington,194%,4%,,2,23,23
+"Maplewood, Essex",/database/pd-dept/maplewood-essex,http://force.nj.com/database/pd-dept/maplewood-essex,368%,7%,,7,38,39
+"Margate, Atlantic",/database/pd-dept/margate-atlantic,http://force.nj.com/database/pd-dept/margate-atlantic,,19%,,0,10,10
+"Marlboro, Monmouth",/database/pd-dept/marlboro-monmouth,http://force.nj.com/database/pd-dept/marlboro-monmouth,451%,,,1,16,17
+"Matawan, Monmouth",/database/pd-dept/matawan-monmouth,http://force.nj.com/database/pd-dept/matawan-monmouth,160%,6%,,2,8,8
+"Maywood, Bergen",/database/pd-dept/maywood-bergen,http://force.nj.com/database/pd-dept/maywood-bergen,449%,19%,,0,10,10
+"Medford Lakes, Burlington",/database/pd-dept/medford-lakes-burlington,http://force.nj.com/database/pd-dept/medford-lakes-burlington,,,,0,0,0
+"Medford, Burlington",/database/pd-dept/medford-burlington,http://force.nj.com/database/pd-dept/medford-burlington,297%,16%,,0,14,15
+"Mendham Borough, Morris",/database/pd-dept/mendham-borough-morris,http://force.nj.com/database/pd-dept/mendham-borough-morris,,13%,,0,0,0
+"Mendham Township, Morris",/database/pd-dept/mendham-township-morris,http://force.nj.com/database/pd-dept/mendham-township-morris,,127%,,0,2,2
+"Merchantville, Camden",/database/pd-dept/merchantville-camden,http://force.nj.com/database/pd-dept/merchantville-camden,,17%,,0,4,4
+"Metuchen, Middlesex",/database/pd-dept/metuchen-middlesex,http://force.nj.com/database/pd-dept/metuchen-middlesex,275%,34%,,0,10,10
+"Middle, Cape May",/database/pd-dept/middle-cape-may,http://force.nj.com/database/pd-dept/middle-cape-may,223%,99%,,3,33,33
+"Middlesex, Middlesex",/database/pd-dept/middlesex-middlesex,http://force.nj.com/database/pd-dept/middlesex-middlesex,8%,46%,,0,10,14
+"Middletown, Monmouth",/database/pd-dept/middletown-monmouth,http://force.nj.com/database/pd-dept/middletown-monmouth,1021%,56%,,3,55,56
+"Midland Park, Bergen",/database/pd-dept/midland-park-bergen,http://force.nj.com/database/pd-dept/midland-park-bergen,,,,0,3,3
+"Millburn, Essex",/database/pd-dept/millburn-essex,http://force.nj.com/database/pd-dept/millburn-essex,,76%,,0,6,8
+"Milltown, Middlesex",/database/pd-dept/milltown-middlesex,http://force.nj.com/database/pd-dept/milltown-middlesex,,35%,,0,5,6
+"Millville, Cumberland",/database/pd-dept/millville-cumberland,http://force.nj.com/database/pd-dept/millville-cumberland,581%,138%,,21,50,53
+"Monmouth Beach, Monmouth",/database/pd-dept/monmouth-beach-monmouth,http://force.nj.com/database/pd-dept/monmouth-beach-monmouth,,57%,,0,7,8
+"Monroe, Gloucester",/database/pd-dept/monroe-gloucester,http://force.nj.com/database/pd-dept/monroe-gloucester,91%,1%,,6,26,28
+"Monroe, Middlesex",/database/pd-dept/monroe-middlesex,http://force.nj.com/database/pd-dept/monroe-middlesex,22%,63%,,0,24,24
+"Montclair, Essex",/database/pd-dept/montclair-essex,http://force.nj.com/database/pd-dept/montclair-essex,490%,15%,,0,33,34
+"Montgomery, Somerset",/database/pd-dept/montgomery-somerset,http://force.nj.com/database/pd-dept/montgomery-somerset,,,,0,0,1
+"Montvale, Bergen",/database/pd-dept/montvale-bergen,http://force.nj.com/database/pd-dept/montvale-bergen,741%,60%,,0,4,4
+"Montville, Morris",/database/pd-dept/montville-morris,http://force.nj.com/database/pd-dept/montville-morris,59%,76%,,0,12,13
+"Moonachie & Teterboro, Bergen",/database/pd-dept/moonachie-bergen,http://force.nj.com/database/pd-dept/moonachie-bergen,,,,0,3,3
+"Moorestown, Burlington",/database/pd-dept/moorestown-burlington,http://force.nj.com/database/pd-dept/moorestown-burlington,842%,6%,,0,10,11
+"Morris Plains, Morris",/database/pd-dept/morris-plains-morris,http://force.nj.com/database/pd-dept/morris-plains-morris,,10%,,0,4,5
+"Morris Township, Morris",/database/pd-dept/morris-township-morris,http://force.nj.com/database/pd-dept/morris-township-morris,429%,25%,,1,10,11
+"Morristown, Morris",/database/pd-dept/morristown-morris,http://force.nj.com/database/pd-dept/morristown-morris,112%,3%,,4,32,37
+"Mount Arlington, Morris",/database/pd-dept/mount-arlington-morris,http://force.nj.com/database/pd-dept/mount-arlington-morris,,,,0,2,2
+"Mount Ephraim, Camden",/database/pd-dept/mount-ephraim-camden,http://force.nj.com/database/pd-dept/mount-ephraim-camden,101%,60%,,0,10,11
+"Mount Holly, Burlington",/database/pd-dept/mount-holly-burlington,http://force.nj.com/database/pd-dept/mount-holly-burlington,408%,100%,,8,24,24
+"Mount Laurel, Burlington",/database/pd-dept/mount-laurel-burlington,http://force.nj.com/database/pd-dept/mount-laurel-burlington,392%,3%,,0,28,28
+"Mount Olive, Morris",/database/pd-dept/mount-olive-morris,http://force.nj.com/database/pd-dept/mount-olive-morris,31%,56%,,0,20,21
+"Mountain Lakes, Morris",/database/pd-dept/mountain-lakes-morris,http://force.nj.com/database/pd-dept/mountain-lakes-morris,,,,0,0,0
+"Mountainside, Union",/database/pd-dept/mountainside-union,http://force.nj.com/database/pd-dept/mountainside-union,,17%,,0,5,7
+"Mullica, Atlantic",/database/pd-dept/mullica-atlantic,http://force.nj.com/database/pd-dept/mullica-atlantic,,11%,,0,4,4
+"Neptune City, Monmouth",/database/pd-dept/neptune-city-monmouth,http://force.nj.com/database/pd-dept/neptune-city-monmouth,330%,28%,,1,8,8
+"Neptune Township, Monmouth",/database/pd-dept/neptune-township-monmouth,http://force.nj.com/database/pd-dept/neptune-township-monmouth,295%,79%,,14,52,53
+"Netcong, Morris",/database/pd-dept/netcong-morris,http://force.nj.com/database/pd-dept/netcong-morris,,22%,,0,8,8
+"New Brunswick, Middlesex",/database/pd-dept/new-brunswick-middlesex,http://force.nj.com/database/pd-dept/new-brunswick-middlesex,268%,78%,,18,73,90
+"New Milford, Bergen",/database/pd-dept/new-milford-bergen,http://force.nj.com/database/pd-dept/new-milford-bergen,48%,64%,,0,9,9
+"New Providence, Union",/database/pd-dept/new-providence-union,http://force.nj.com/database/pd-dept/new-providence-union,,,,0,3,3
+"Newark, Essex",/database/pd-dept/newark-essex,http://force.nj.com/database/pd-dept/newark-essex,133%,203%,,49,374,432
+"Newfield, Gloucester",/database/pd-dept/newfield-gloucester,http://force.nj.com/database/pd-dept/newfield-gloucester,,,,0,0,0
+"Newton, Sussex",/database/pd-dept/newton-sussex,http://force.nj.com/database/pd-dept/newton-sussex,221%,175%,,2,15,15
+"North Arlington, Bergen",/database/pd-dept/north-arlington-bergen,http://force.nj.com/database/pd-dept/north-arlington-bergen,126%,69%,,0,12,15
+"North Bergen, Hudson",/database/pd-dept/north-bergen-hudson,http://force.nj.com/database/pd-dept/north-bergen-hudson,3%,92%,,0,56,57
+"North Brunswick, Middlesex",/database/pd-dept/north-brunswick-middlesex,http://force.nj.com/database/pd-dept/north-brunswick-middlesex,206%,33%,,0,23,28
+"North Caldwell, Essex",/database/pd-dept/north-caldwell-essex,http://force.nj.com/database/pd-dept/north-caldwell-essex,,,,0,0,0
+"North Haledon, Passaic",/database/pd-dept/north-haledon-passaic,http://force.nj.com/database/pd-dept/north-haledon-passaic,,114%,,0,10,10
+"North Hanover, Burlington",/database/pd-dept/north-hanover-burlington,http://force.nj.com/database/pd-dept/north-hanover-burlington,0%,4%,,0,1,2
+"North Plainfield, Somerset",/database/pd-dept/north-plainfield-somerset,http://force.nj.com/database/pd-dept/north-plainfield-somerset,8%,18%,,6,28,29
+"North Wildwood, Cape May",/database/pd-dept/north-wildwood-cape-may,http://force.nj.com/database/pd-dept/north-wildwood-cape-may,179%,18%,,3,42,42
+"Northfield City, Atlantic",/database/pd-dept/northfield-atlantic,http://force.nj.com/database/pd-dept/northfield-atlantic,,95%,,0,3,4
+"Northvale & Rockleigh Borough, Bergen",/database/pd-dept/northvale-bergen,http://force.nj.com/database/pd-dept/northvale-bergen,,,,0,1,1
+"Norwood, Bergen",/database/pd-dept/norwood-bergen,http://force.nj.com/database/pd-dept/norwood-bergen,,,,0,0,0
+"Nutley, Essex",/database/pd-dept/nutley-essex,http://force.nj.com/database/pd-dept/nutley-essex,603%,58%,,2,34,36
+"Oakland, Bergen",/database/pd-dept/oakland-bergen,http://force.nj.com/database/pd-dept/oakland-bergen,,,,0,6,7
+"Oaklyn, Camden",/database/pd-dept/oaklyn-camden,http://force.nj.com/database/pd-dept/oaklyn-camden,,41%,,0,6,6
+"Ocean City, Cape May",/database/pd-dept/ocean-city-cape-may,http://force.nj.com/database/pd-dept/ocean-city-cape-may,1289%,13%,,0,28,28
+"Ocean Gate, Ocean",/database/pd-dept/ocean-gate-ocean,http://force.nj.com/database/pd-dept/ocean-gate-ocean,,,,0,4,4
+"Oceanport, Monmouth",/database/pd-dept/oceanport-monmouth,http://force.nj.com/database/pd-dept/oceanport-monmouth,1311%,20%,,0,12,12
+"Ocean Township, Monmouth",/database/pd-dept/ocean-township-monmouth,http://force.nj.com/database/pd-dept/ocean-township-monmouth,423%,29%,,1,22,23
+"Ocean Township, Ocean",/database/pd-dept/ocean-township-ocean,http://force.nj.com/database/pd-dept/ocean-township-ocean,7519%,9%,,1,5,8
+"Ogdensburg, Sussex",/database/pd-dept/ogdensburg-sussex,http://force.nj.com/database/pd-dept/ogdensburg-sussex,,,,0,3,3
+"Old Bridge, Middlesex",/database/pd-dept/old-bridge-middlesex,http://force.nj.com/database/pd-dept/old-bridge-middlesex,201%,24%,,0,13,15
+"Old Tappan, Bergen",/database/pd-dept/old-tappan-bergen,http://force.nj.com/database/pd-dept/old-tappan-bergen,,,,0,2,2
+"Oradell, Bergen",/database/pd-dept/oradell-bergen,http://force.nj.com/database/pd-dept/oradell-bergen,,,,0,1,2
+"Orange, Essex",/database/pd-dept/orange-essex,http://force.nj.com/database/pd-dept/orange-essex,76%,38%,,5,32,37
+"Palisades Park, Bergen",/database/pd-dept/palisades-park-bergen,http://force.nj.com/database/pd-dept/palisades-park-bergen,,18%,,0,10,11
+"Palmyra, Burlington",/database/pd-dept/palmyra-burlington,http://force.nj.com/database/pd-dept/palmyra-burlington,210%,4%,,0,7,7
+"Paramus, Bergen",/database/pd-dept/paramus-bergen,http://force.nj.com/database/pd-dept/paramus-bergen,1530%,58%,,6,29,38
+"Park Ridge, Bergen",/database/pd-dept/park-ridge-bergen,http://force.nj.com/database/pd-dept/park-ridge-bergen,26%,47%,,0,5,5
+"Parsippany-Troy, Morris",/database/pd-dept/parsippany-troy-morris,http://force.nj.com/database/pd-dept/parsippany-troy-morris,93%,9%,,2,26,26
+"Passaic, Passaic",/database/pd-dept/passaic-passaic,http://force.nj.com/database/pd-dept/passaic-passaic,67%,158%,,13,84,88
+"Paterson, Passaic",/database/pd-dept/paterson-passaic,http://force.nj.com/database/pd-dept/paterson-passaic,78%,459%,,35,233,252
+"Paulsboro, Gloucester",/database/pd-dept/paulsboro-gloucester,http://force.nj.com/database/pd-dept/paulsboro-gloucester,210%,41%,,3,22,24
+"Peapack-Gladstone, Somerset",/database/pd-dept/peapack-gladstone-somerset,http://force.nj.com/database/pd-dept/peapack-gladstone-somerset,,,,0,1,1
+"Pemberton Borough, Burlington",/database/pd-dept/pemberton-borough-burlington,http://force.nj.com/database/pd-dept/pemberton-borough-burlington,181%,26%,,0,5,5
+"Pemberton Township, Burlington",/database/pd-dept/pemberton-township-burlington,http://force.nj.com/database/pd-dept/pemberton-township-burlington,147%,8%,,2,32,32
+"Pennington, Mercer",/database/pd-dept/pennington-mercer,http://force.nj.com/database/pd-dept/pennington-mercer,,,,0,0,0
+"Penns Grove, Salem",/database/pd-dept/penns-grove-salem,http://force.nj.com/database/pd-dept/penns-grove-salem,173%,59%,,3,7,8
+"Pennsauken, Camden",/database/pd-dept/pennsauken-camden,http://force.nj.com/database/pd-dept/pennsauken-camden,106%,71%,,6,49,54
+"Pennsville, Salem",/database/pd-dept/pennsville-salem,http://force.nj.com/database/pd-dept/pennsville-salem,1845%,19%,,4,14,14
+"Pequannock, Morris",/database/pd-dept/pequannock-morris,http://force.nj.com/database/pd-dept/pequannock-morris,1673%,36%,,0,7,7
+"Perth Amboy, Middlesex",/database/pd-dept/perth-amboy-middlesex,http://force.nj.com/database/pd-dept/perth-amboy-middlesex,65%,,,30,75,78
+"Phillipsburg & Alpha, Warren",/database/pd-dept/phillipsburg-warren,http://force.nj.com/database/pd-dept/phillipsburg-warren,232%,40%,,4,13,15
+"Pine Beach, Ocean",/database/pd-dept/pine-beach-ocean,http://force.nj.com/database/pd-dept/pine-beach-ocean,,,,0,5,5
+"Pine Hill, Camden",/database/pd-dept/pine-hill-camden,http://force.nj.com/database/pd-dept/pine-hill-camden,127%,25%,,2,15,15
+"Piscataway, Middlesex",/database/pd-dept/piscataway-middlesex,http://force.nj.com/database/pd-dept/piscataway-middlesex,22%,37%,,0,13,16
+"Pitman, Gloucester",/database/pd-dept/pitman-gloucester,http://force.nj.com/database/pd-dept/pitman-gloucester,706%,56%,,0,5,6
+"Plainfield, Union",/database/pd-dept/plainfield-union,http://force.nj.com/database/pd-dept/plainfield-union,38%,66%,,4,45,47
+"Plainsboro, Middlesex",/database/pd-dept/plainsboro-middlesex,http://force.nj.com/database/pd-dept/plainsboro-middlesex,178%,12%,,0,23,23
+"Pleasantville, Atlantic",/database/pd-dept/pleasantville-atlantic,http://force.nj.com/database/pd-dept/pleasantville-atlantic,44%,32%,,9,36,39
+"Plumsted, Ocean",/database/pd-dept/plumsted-ocean,http://force.nj.com/database/pd-dept/plumsted-ocean,,89%,,0,1,1
+"Pohatcong, Warren",/database/pd-dept/pohatcong-warren,http://force.nj.com/database/pd-dept/pohatcong-warren,,153%,,0,5,6
+"Point Pleasant Beach, Ocean",/database/pd-dept/point-pleasant-beach-ocean,http://force.nj.com/database/pd-dept/point-pleasant-beach-ocean,2331%,10%,,1,40,40
+"Point Pleasant, Ocean",/database/pd-dept/point-pleasant-ocean,http://force.nj.com/database/pd-dept/point-pleasant-ocean,,,,1,15,16
+"Pompton Lakes, Passaic",/database/pd-dept/pompton-lakes-passaic,http://force.nj.com/database/pd-dept/pompton-lakes-passaic,29976%,385%,,5,15,16
+"Princeton & Princeton Borough (2012 only), Mercer",/database/pd-dept/princeton-mercer,http://force.nj.com/database/pd-dept/princeton-mercer,493%,57%,,0,17,17
+"Prospect Park, Passaic",/database/pd-dept/prospect-park-passaic,http://force.nj.com/database/pd-dept/prospect-park-passaic,1%,162%,,0,5,6
+"Rahway, Union",/database/pd-dept/rahway-union,http://force.nj.com/database/pd-dept/rahway-union,23%,3%,,2,21,25
+"Ramsey, Bergen",/database/pd-dept/ramsey-bergen,http://force.nj.com/database/pd-dept/ramsey-bergen,5987%,55%,,1,17,17
+"Randolph, Morris",/database/pd-dept/randolph-morris,http://force.nj.com/database/pd-dept/randolph-morris,249%,27%,,1,19,19
+"Raritan, Hunterdon",/database/pd-dept/raritan-hunterdon,http://force.nj.com/database/pd-dept/raritan-hunterdon,775%,36%,,0,8,8
+"Raritan, Somerset",/database/pd-dept/raritan-somerset,http://force.nj.com/database/pd-dept/raritan-somerset,1568%,83%,,0,11,11
+"Readington, Hunterdon",/database/pd-dept/readington-hunterdon,http://force.nj.com/database/pd-dept/readington-hunterdon,4444%,117%,,0,5,5
+"Red Bank, Monmouth",/database/pd-dept/red-bank-monmouth,http://force.nj.com/database/pd-dept/red-bank-monmouth,174%,79%,,10,21,25
+"Ridgefield Park, Bergen",/database/pd-dept/ridgefield-park-bergen,http://force.nj.com/database/pd-dept/ridgefield-park-bergen,32%,40%,,0,20,21
+"Ridgefield, Bergen",/database/pd-dept/ridgefield-bergen,http://force.nj.com/database/pd-dept/ridgefield-bergen,,,,0,5,5
+"Ridgewood, Bergen",/database/pd-dept/ridgewood-bergen,http://force.nj.com/database/pd-dept/ridgewood-bergen,405%,35%,,1,20,20
+"Ringwood, Passaic",/database/pd-dept/ringwood-passaic,http://force.nj.com/database/pd-dept/ringwood-passaic,419%,66%,,0,14,14
+"River Edge, Bergen",/database/pd-dept/river-edge-bergen,http://force.nj.com/database/pd-dept/river-edge-bergen,,,,0,5,5
+"River Vale, Bergen",/database/pd-dept/river-vale-bergen,http://force.nj.com/database/pd-dept/river-vale-bergen,,,,0,1,1
+"Riverdale, Morris",/database/pd-dept/riverdale-morris,http://force.nj.com/database/pd-dept/riverdale-morris,,32%,,0,6,6
+"Riverside, Burlington",/database/pd-dept/riverside-burlington,http://force.nj.com/database/pd-dept/riverside-burlington,160%,53%,,1,13,15
+"Riverton, Burlington",/database/pd-dept/riverton-burlington,http://force.nj.com/database/pd-dept/riverton-burlington,,,,0,2,2
+"Robbinsville, Mercer",/database/pd-dept/robbinsville-mercer,http://force.nj.com/database/pd-dept/robbinsville-mercer,328%,31%,,0,11,11
+"Rochelle Park, Bergen",/database/pd-dept/rochelle-park-bergen,http://force.nj.com/database/pd-dept/rochelle-park-bergen,1975%,4%,,1,8,9
+"Rockaway Borough, Morris",/database/pd-dept/rockaway-borough-morris,http://force.nj.com/database/pd-dept/rockaway-borough-morris,,57%,,0,2,2
+"Rockaway Township, Morris",/database/pd-dept/rockaway-township-morris,http://force.nj.com/database/pd-dept/rockaway-township-morris,1077%,151%,,0,10,10
+"Roseland, Essex",/database/pd-dept/roseland-essex,http://force.nj.com/database/pd-dept/roseland-essex,,,,0,3,3
+"Roselle Park, Union",/database/pd-dept/roselle-park-union,http://force.nj.com/database/pd-dept/roselle-park-union,449%,25%,,2,19,19
+"Roselle, Union",/database/pd-dept/roselle-union,http://force.nj.com/database/pd-dept/roselle-union,46%,12%,,9,35,47
+"Roxbury, Morris",/database/pd-dept/roxbury-morris,http://force.nj.com/database/pd-dept/roxbury-morris,41%,65%,,0,20,21
+"Rumson, Monmouth",/database/pd-dept/rumson-monmouth,http://force.nj.com/database/pd-dept/rumson-monmouth,,,,0,1,3
+"Runnemede, Camden",/database/pd-dept/runnemede-camden,http://force.nj.com/database/pd-dept/runnemede-camden,,,,0,0,0
+"Rutherford, Bergen",/database/pd-dept/rutherford-bergen,http://force.nj.com/database/pd-dept/rutherford-bergen,636%,143%,,0,14,14
+"Saddle Brook, Bergen",/database/pd-dept/saddle-brook-bergen,http://force.nj.com/database/pd-dept/saddle-brook-bergen,,119%,,0,3,4
+"Saddle River, Bergen",/database/pd-dept/saddle-river-bergen,http://force.nj.com/database/pd-dept/saddle-river-bergen,,,,0,0,0
+"Salem City, Salem",/database/pd-dept/salem-city-salem,http://force.nj.com/database/pd-dept/salem-city-salem,112%,,,3,14,15
+"Sayreville, Middlesex",/database/pd-dept/sayreville-middlesex,http://force.nj.com/database/pd-dept/sayreville-middlesex,32%,7%,,0,34,40
+"Scotch Plains, Union",/database/pd-dept/scotch-plains-union,http://force.nj.com/database/pd-dept/scotch-plains-union,276%,17%,,0,13,15
+"Sea Bright, Monmouth",/database/pd-dept/sea-bright-monmouth,http://force.nj.com/database/pd-dept/sea-bright-monmouth,275%,184%,,0,7,7
+"Sea Girt, Monmouth",/database/pd-dept/sea-girt-monmouth,http://force.nj.com/database/pd-dept/sea-girt-monmouth,497%,76%,,0,6,9
+"Sea Isle City, Cape May",/database/pd-dept/sea-isle-city-cape-may,http://force.nj.com/database/pd-dept/sea-isle-city-cape-may,729%,49%,,0,23,24
+"Seaside Heights, Ocean",/database/pd-dept/seaside-heights-ocean,http://force.nj.com/database/pd-dept/seaside-heights-ocean,772%,42%,,4,28,46
+"Seaside Park, Ocean",/database/pd-dept/seaside-park-ocean,http://force.nj.com/database/pd-dept/seaside-park-ocean,4364%,24%,,0,6,9
+"Secaucus, Hudson",/database/pd-dept/secaucus-hudson,http://force.nj.com/database/pd-dept/secaucus-hudson,305%,35%,,1,41,41
+"Ship Bottom, Ocean",/database/pd-dept/ship-bottom-ocean,http://force.nj.com/database/pd-dept/ship-bottom-ocean,,,,0,7,8
+"Shrewsbury, Monmouth",/database/pd-dept/shrewsbury-monmouth,http://force.nj.com/database/pd-dept/shrewsbury-monmouth,9405%,59%,,0,3,3
+"Somerdale, Camden",/database/pd-dept/somerdale-camden,http://force.nj.com/database/pd-dept/somerdale-camden,210%,81%,,0,6,7
+"Somers Point, Atlantic",/database/pd-dept/somers-point-atlantic,http://force.nj.com/database/pd-dept/somers-point-atlantic,130%,10%,,1,11,13
+"Somerville, Somerset",/database/pd-dept/somerville-somerset,http://force.nj.com/database/pd-dept/somerville-somerset,207%,17%,,4,24,26
+"South Amboy, Middlesex",/database/pd-dept/south-amboy-middlesex,http://force.nj.com/database/pd-dept/south-amboy-middlesex,824%,99%,,0,16,18
+"South Bound Brook, Somerset",/database/pd-dept/south-bound-brook-somerset,http://force.nj.com/database/pd-dept/south-bound-brook-somerset,204%,12%,,0,6,10
+"South Brunswick, Middlesex",/database/pd-dept/south-brunswick-middlesex,http://force.nj.com/database/pd-dept/south-brunswick-middlesex,114%,19%,,0,34,36
+"South Hackensack, Bergen",/database/pd-dept/south-hackensack-bergen,http://force.nj.com/database/pd-dept/south-hackensack-bergen,,95%,,0,2,3
+"South Harrison, Gloucester",/database/pd-dept/south-harrison-gloucester,http://force.nj.com/database/pd-dept/south-harrison-gloucester,,,,0,0,1
+"South Orange, Essex",/database/pd-dept/south-orange-essex,http://force.nj.com/database/pd-dept/south-orange-essex,844%,88%,,0,16,18
+"South Plainfield, Middlesex",/database/pd-dept/south-plainfield-middlesex,http://force.nj.com/database/pd-dept/south-plainfield-middlesex,321%,15%,,0,20,22
+"South River, Middlesex",/database/pd-dept/south-river-middlesex,http://force.nj.com/database/pd-dept/south-river-middlesex,161%,20%,,5,19,19
+"South Toms River, Ocean",/database/pd-dept/south-toms-river-ocean,http://force.nj.com/database/pd-dept/south-toms-river-ocean,46%,10%,,1,7,7
+"Sparta, Sussex",/database/pd-dept/sparta-sussex,http://force.nj.com/database/pd-dept/sparta-sussex,30%,14%,,0,10,10
+"Spotswood, Middlesex",/database/pd-dept/spotswood-middlesex,http://force.nj.com/database/pd-dept/spotswood-middlesex,79%,10%,,1,7,8
+"Spring Lake Borough, Monmouth",/database/pd-dept/spring-lake-borough-monmouth,http://force.nj.com/database/pd-dept/spring-lake-borough-monmouth,,,,0,6,6
+"Spring Lake Heights, Monmouth",/database/pd-dept/spring-lake-heights-monmouth,http://force.nj.com/database/pd-dept/spring-lake-heights-monmouth,,,,0,2,2
+"Springfield, Burlington",/database/pd-dept/springfield-burlington,http://force.nj.com/database/pd-dept/springfield-burlington,,,,0,0,0
+"Springfield, Union",/database/pd-dept/springfield-union,http://force.nj.com/database/pd-dept/springfield-union,467%,16%,,0,10,10
+"Stafford, Ocean",/database/pd-dept/stafford-ocean,http://force.nj.com/database/pd-dept/stafford-ocean,49%,35%,,1,28,28
+"Stanhope, Sussex",/database/pd-dept/stanhope-sussex,http://force.nj.com/database/pd-dept/stanhope-sussex,20%,73%,,1,6,6
+"Stone Harbor Borough, Cape May",/database/pd-dept/stone-harbor-borough-cape-may,http://force.nj.com/database/pd-dept/stone-harbor-borough-cape-may,243%,58%,,0,12,12
+"Stratford, Camden",/database/pd-dept/stratford-camden,http://force.nj.com/database/pd-dept/stratford-camden,463%,25%,,1,14,14
+"Summit, Union",/database/pd-dept/summit-union,http://force.nj.com/database/pd-dept/summit-union,1387%,93%,,0,8,8
+"Surf City, Ocean",/database/pd-dept/surf-city-ocean,http://force.nj.com/database/pd-dept/surf-city-ocean,,,,0,4,5
+"Teaneck, Bergen",/database/pd-dept/teaneck-bergen,http://force.nj.com/database/pd-dept/teaneck-bergen,119%,14%,,3,42,42
+"Tenafly, Bergen",/database/pd-dept/tenafly-bergen,http://force.nj.com/database/pd-dept/tenafly-bergen,,198%,,0,8,8
+"Tinton Falls, Monmouth",/database/pd-dept/tinton-falls-monmouth,http://force.nj.com/database/pd-dept/tinton-falls-monmouth,443%,16%,,0,33,33
+"Toms River, Ocean",/database/pd-dept/toms-river-ocean,http://force.nj.com/database/pd-dept/toms-river-ocean,482%,,,25,118,121
+"Totowa, Passaic",/database/pd-dept/totowa-passaic,http://force.nj.com/database/pd-dept/totowa-passaic,,,,0,1,1
+"Clinton, Hunterdon",/database/pd-dept/clinton-hunterdon,http://force.nj.com/database/pd-dept/clinton-hunterdon,,,,0,0,0
+"Trenton, Mercer",/database/pd-dept/trenton-mercer,http://force.nj.com/database/pd-dept/trenton-mercer,42%,42%,,29,138,167
+"Tuckerton, Ocean",/database/pd-dept/tuckerton-ocean,http://force.nj.com/database/pd-dept/tuckerton-ocean,229%,39%,,0,5,5
+"Union Beach, Monmouth",/database/pd-dept/union-beach-monmouth,http://force.nj.com/database/pd-dept/union-beach-monmouth,15%,27%,,0,4,10
+"Union City, Hudson",/database/pd-dept/union-city-hudson,http://force.nj.com/database/pd-dept/union-city-hudson,90%,38%,,6,64,66
+"Union Township, Union",/database/pd-dept/union-township-union,http://force.nj.com/database/pd-dept/union-township-union,231%,37%,,10,65,73
+"Upper Saddle River, Bergen",/database/pd-dept/upper-saddle-river-bergen,http://force.nj.com/database/pd-dept/upper-saddle-river-bergen,,30%,,0,4,4
+"Ventnor City, Atlantic",/database/pd-dept/ventnor-city-atlantic,http://force.nj.com/database/pd-dept/ventnor-city-atlantic,96%,46%,,0,17,19
+"Vernon, Sussex",/database/pd-dept/vernon-sussex,http://force.nj.com/database/pd-dept/vernon-sussex,,,,1,11,14
+"Verona, Essex",/database/pd-dept/verona-essex,http://force.nj.com/database/pd-dept/verona-essex,,74%,,0,6,7
+"Vineland, Cumberland",/database/pd-dept/vineland-cumberland,http://force.nj.com/database/pd-dept/vineland-cumberland,98%,3%,,56,102,103
+"Voorhees, Camden",/database/pd-dept/voorhees-camden,http://force.nj.com/database/pd-dept/voorhees-camden,400%,56%,,7,40,40
+"Waldwick, Bergen",/database/pd-dept/waldwick-bergen,http://force.nj.com/database/pd-dept/waldwick-bergen,,21%,,0,7,8
+"Wall, Monmouth",/database/pd-dept/wall-monmouth,http://force.nj.com/database/pd-dept/wall-monmouth,540%,,,0,42,43
+"Wallington, Bergen",/database/pd-dept/wallington-bergen,http://force.nj.com/database/pd-dept/wallington-bergen,,,,0,1,1
+"Wanaque, Passaic",/database/pd-dept/wanaque-passaic,http://force.nj.com/database/pd-dept/wanaque-passaic,,273%,,0,7,7
+"Warren Township, Somerset",/database/pd-dept/warren-township-somerset,http://force.nj.com/database/pd-dept/warren-township-somerset,441%,28%,,0,8,9
+"Washington Township & Washington Borough, Warren",/database/pd-dept/washington-township-warren,http://force.nj.com/database/pd-dept/washington-township-warren,61%,49%,,1,15,16
+"Washington, Bergen",/database/pd-dept/washington-bergen,http://force.nj.com/database/pd-dept/washington-bergen,,,,0,5,5
+"Washington, Gloucester",/database/pd-dept/washington-gloucester,http://force.nj.com/database/pd-dept/washington-gloucester,255%,14%,,6,36,36
+"Washington & Califon Borough, Morris",/database/pd-dept/washington-morris,http://force.nj.com/database/pd-dept/washington-morris,,124%,,0,8,8
+"Watchung, Somerset",/database/pd-dept/watchung-somerset,http://force.nj.com/database/pd-dept/watchung-somerset,3990%,2%,,0,8,11
+"Waterford, Camden",/database/pd-dept/waterford-camden,http://force.nj.com/database/pd-dept/waterford-camden,1180%,86%,,2,8,13
+"Wayne, Passaic",/database/pd-dept/wayne-passaic,http://force.nj.com/database/pd-dept/wayne-passaic,402%,23%,,0,19,21
+"Weehawken, Hudson",/database/pd-dept/weehawken-hudson,http://force.nj.com/database/pd-dept/weehawken-hudson,,,,0,15,15
+"Wenonah, Gloucester",/database/pd-dept/wenonah-gloucester,http://force.nj.com/database/pd-dept/wenonah-gloucester,,47%,,0,2,2
+"West Amwell, Hunterdon",/database/pd-dept/west-amwell-hunterdon,http://force.nj.com/database/pd-dept/west-amwell-hunterdon,,,,0,1,2
+"West Caldwell, Essex",/database/pd-dept/west-caldwell-essex,http://force.nj.com/database/pd-dept/west-caldwell-essex,,,,0,4,4
+"West Deptford, Gloucester",/database/pd-dept/west-deptford-gloucester,http://force.nj.com/database/pd-dept/west-deptford-gloucester,213%,5%,,3,21,21
+"West Long Branch, Monmouth",/database/pd-dept/west-long-branch-monmouth,http://force.nj.com/database/pd-dept/west-long-branch-monmouth,494%,20%,,0,5,6
+"West Milford, Passaic",/database/pd-dept/west-milford-passaic,http://force.nj.com/database/pd-dept/west-milford-passaic,836%,59%,,0,6,8
+"West New York, Hudson",/database/pd-dept/west-new-york-hudson,http://force.nj.com/database/pd-dept/west-new-york-hudson,62%,92%,,16,69,69
+"West Orange, Essex",/database/pd-dept/west-orange-essex,http://force.nj.com/database/pd-dept/west-orange-essex,173%,29%,,1,29,34
+"West Wildwood, Cape May",/database/pd-dept/west-wildwood-cape-may,http://force.nj.com/database/pd-dept/west-wildwood-cape-may,,,,0,2,2
+"West Windsor, Mercer",/database/pd-dept/west-windsor-mercer,http://force.nj.com/database/pd-dept/west-windsor-mercer,1083%,1%,,0,16,16
+"Westfield, Union",/database/pd-dept/westfield-union,http://force.nj.com/database/pd-dept/westfield-union,403%,64%,,0,13,13
+"Westampton, Burlington",/database/pd-dept/westampton-burlington,http://force.nj.com/database/pd-dept/westampton-burlington,491%,28%,,1,12,13
+"Westville & National Park, Gloucester",/database/pd-dept/westville-gloucester,http://force.nj.com/database/pd-dept/westville-gloucester,657%,28%,,1,8,12
+"Westwood, Bergen",/database/pd-dept/westwood-bergen,http://force.nj.com/database/pd-dept/westwood-bergen,171%,7%,,0,11,12
+"Wharton & Mine Hill, Morris",/database/pd-dept/wharton-morris,http://force.nj.com/database/pd-dept/wharton-morris,512%,41%,,0,10,12
+"Wildwood Crest, Cape May",/database/pd-dept/wildwood-crest-cape-may,http://force.nj.com/database/pd-dept/wildwood-crest-cape-may,,96%,,0,13,15
+"Wildwood, Cape May",/database/pd-dept/wildwood-cape-may,http://force.nj.com/database/pd-dept/wildwood-cape-may,233%,96%,,11,65,69
+"Willingboro, Burlington",/database/pd-dept/willingboro-burlington,http://force.nj.com/database/pd-dept/willingboro-burlington,2%,18%,,3,33,35
+"Winfield, Union",/database/pd-dept/winfield-union,http://force.nj.com/database/pd-dept/winfield-union,,,,0,1,1
+"Winslow, Camden",/database/pd-dept/winslow-camden,http://force.nj.com/database/pd-dept/winslow-camden,142%,67%,,4,46,48
+"Wood-Ridge, Bergen",/database/pd-dept/wood-ridge-bergen,http://force.nj.com/database/pd-dept/wood-ridge-bergen,,32%,,0,1,1
+"Woodbridge, Middlesex",/database/pd-dept/woodbridge-middlesex,http://force.nj.com/database/pd-dept/woodbridge-middlesex,70%,2%,,5,93,97
+"Woodbury Heights, Gloucester",/database/pd-dept/woodbury-heights-gloucester,http://force.nj.com/database/pd-dept/woodbury-heights-gloucester,648%,81%,,1,4,4
+"Woodbury, Gloucester",/database/pd-dept/woodbury-gloucester,http://force.nj.com/database/pd-dept/woodbury-gloucester,299%,39%,,0,20,22
+"Woodcliff Lake, Bergen",/database/pd-dept/woodcliff-lake-bergen,http://force.nj.com/database/pd-dept/woodcliff-lake-bergen,,,,0,2,2
+"Woodland Park, Passaic",/database/pd-dept/woodland-park-passaic,http://force.nj.com/database/pd-dept/woodland-park-passaic,707%,40%,,1,11,12
+"Woodlynne, Camden",/database/pd-dept/woodlynne-camden,http://force.nj.com/database/pd-dept/woodlynne-camden,95%,112%,,1,7,7
+"Woodstown, Salem",/database/pd-dept/woodstown-salem,http://force.nj.com/database/pd-dept/woodstown-salem,322%,13%,,0,4,4
+"Woolwich & Swedesboro, Gloucester",/database/pd-dept/woolwich-gloucester,http://force.nj.com/database/pd-dept/woolwich-gloucester,,,,0,4,4
+"Wyckoff, Bergen",/database/pd-dept/wyckoff-bergen,http://force.nj.com/database/pd-dept/wyckoff-bergen,2788%,7%,,0,13,13
+"Hi-Nella, Camden",/database/pd-dept/hi-nella-camden,http://force.nj.com/database/pd-dept/hi-nella-camden,,,No data found,,,
+"Lawnside, Camden",/database/pd-dept/lawnside-camden,http://force.nj.com/database/pd-dept/lawnside-camden,,,No data found,,,
+"Pine Valley, Camden",/database/pd-dept/pine%20valley-camden,http://force.nj.com/database/pd-dept/pine%20valley-camden,,,No data found,,,
+"Franklin, Hunterdon",/database/pd-dept/franklin-hunterdon,http://force.nj.com/database/pd-dept/franklin-hunterdon,,,No data found,,,
+"Tewksbury, Hunterdon",/database/pd-dept/tewksbury-hunterdon,http://force.nj.com/database/pd-dept/tewksbury-hunterdon,,,No data found,,,
+"Elmer, Salem",/database/pd-dept/elmer-salem,http://force.nj.com/database/pd-dept/elmer-salem,,,No data found,,,
+"Holland, Hunterdon",/database/pd-dept/holland-hunterdon,http://force.nj.com/database/pd-dept/holland-hunterdon,,,No data found,,,
+"New Hanover, Burlington",/database/pd-dept/new-hanover-burlington,http://force.nj.com/database/pd-dept/new-hanover-burlington,,,No data found,,,
+"Buena Vista, Atlantic",/database/pd-dept/buena-vista-atlantic,http://force.nj.com/database/pd-dept/buena-vista-atlantic,,,No data found,,,
+"Corbin City, Atlantic",/database/pd-dept/corbin-city-atlantic,http://force.nj.com/database/pd-dept/corbin-city-atlantic,,,No data found,,,
+"Estell Manor, Atlantic",/database/pd-dept/estell-manor-atlantic,http://force.nj.com/database/pd-dept/estell-manor-atlantic,,,No data found,,,
+"Folsom, Atlantic",/database/pd-dept/folsom-atlantic,http://force.nj.com/database/pd-dept/folsom-atlantic,,,No data found,,,
+"Port Republic City, Atlantic",/database/pd-dept/port-republic-city-atlantic,http://force.nj.com/database/pd-dept/port-republic-city-atlantic,,,No data found,,,
+"Weymouth Township, Atlantic",/database/pd-dept/weymouth-township-atlantic,http://force.nj.com/database/pd-dept/weymouth-township-atlantic,,,No data found,,,
+"Wrightstown, Burlington",/database/pd-dept/wrightstown-burlington,http://force.nj.com/database/pd-dept/wrightstown-burlington,,,No data found,,,
+"Woodland, Burlington",/database/pd-dept/woodland-burlington,http://force.nj.com/database/pd-dept/woodland-burlington,,,No data found,,,
+"Bass River, Burlington",/database/pd-dept/bass-river-burlington,http://force.nj.com/database/pd-dept/bass-river-burlington,,,No data found,,,
+"Hainesport, Burlington",/database/pd-dept/hainesport-burlington,http://force.nj.com/database/pd-dept/hainesport-burlington,,,No data found,,,
+"Tabernacle, Burlington",/database/pd-dept/tabernacle-burlington,http://force.nj.com/database/pd-dept/tabernacle-burlington,,,No data found,,,
+"Southampton, Burlington",/database/pd-dept/southampton-burlington,http://force.nj.com/database/pd-dept/southampton-burlington,,,No data found,,,
+"Shamong, Burlington",/database/pd-dept/shamong-burlington,http://force.nj.com/database/pd-dept/shamong-burlington,,,No data found,,,
+"Washington, Burlington",/database/pd-dept/washington-burlington,http://force.nj.com/database/pd-dept/washington-burlington,,,No data found,,,
+"Dennis, Cape May",/database/pd-dept/dennis-cape-may,http://force.nj.com/database/pd-dept/dennis-cape-may,,,No data found,,,
+"Upper, Cape May",/database/pd-dept/upper-cape-may,http://force.nj.com/database/pd-dept/upper-cape-may,,,No data found,,,
+"Woodbine, Cape May",/database/pd-dept/woodbine-cape-may,http://force.nj.com/database/pd-dept/woodbine-cape-may,,,No data found,,,
+"Commercial, Cumberland",/database/pd-dept/commercial-cumberland,http://force.nj.com/database/pd-dept/commercial-cumberland,,,No data found,,,
+"Deerfield, Cumberland",/database/pd-dept/deerfield-cumberland,http://force.nj.com/database/pd-dept/deerfield-cumberland,,,No data found,,,
+"Downe, Cumberland",/database/pd-dept/downe-cumberland,http://force.nj.com/database/pd-dept/downe-cumberland,,,No data found,,,
+"Fairfield, Cumberland",/database/pd-dept/fairfield-cumberland,http://force.nj.com/database/pd-dept/fairfield-cumberland,,,No data found,,,
+"Greenwich Township, Cumberland",/database/pd-dept/greenwich-township-cumberland,http://force.nj.com/database/pd-dept/greenwich-township-cumberland,,,No data found,,,
+"Hopewell, Cumberland",/database/pd-dept/hopewell-cumberland,http://force.nj.com/database/pd-dept/hopewell-cumberland,,,No data found,,,
+"Lawrence Township, Cumberland",/database/pd-dept/lawrence-township-cumberland,http://force.nj.com/database/pd-dept/lawrence-township-cumberland,,,No data found,,,
+"Maurice River, Cumberland",/database/pd-dept/maurice-river-cumberland,http://force.nj.com/database/pd-dept/maurice-river-cumberland,,,No data found,,,
+"Shiloh Borough, Cumberland",/database/pd-dept/shiloh-borough-cumberland,http://force.nj.com/database/pd-dept/shiloh-borough-cumberland,,,No data found,,,
+"Stow Creek, Cumberland",/database/pd-dept/stow-creek-cumberland,http://force.nj.com/database/pd-dept/stow-creek-cumberland,,,No data found,,,
+"Upper Deerfield, Cumberland",/database/pd-dept/upper-deerfield-cumberland,http://force.nj.com/database/pd-dept/upper-deerfield-cumberland,,,No data found,,,
+"Alexandria, Hunterdon",/database/pd-dept/alexandria-hunterdon,http://force.nj.com/database/pd-dept/alexandria-hunterdon,,,No data found,,,
+"Bethlehem, Hunterdon",/database/pd-dept/bethlehem-hunterdon,http://force.nj.com/database/pd-dept/bethlehem-hunterdon,,,No data found,,,
+"Bloomsbury Borough, Hunterdon",/database/pd-dept/bloomsbury-borough-hunterdon,http://force.nj.com/database/pd-dept/bloomsbury-borough-hunterdon,,,No data found,,,
+"East Amwell, Hunterdon",/database/pd-dept/east-amwell-hunterdon,http://force.nj.com/database/pd-dept/east-amwell-hunterdon,,,No data found,,,
+"Glen Gardner Borough, Hunterdon",/database/pd-dept/glen-gardner-borough-hunterdon,http://force.nj.com/database/pd-dept/glen-gardner-borough-hunterdon,,,No data found,,,
+"Hampton, Hunterdon",/database/pd-dept/hampton-hunterdon,http://force.nj.com/database/pd-dept/hampton-hunterdon,,,No data found,,,
+"Kingwood, Hunterdon",/database/pd-dept/kingwood-hunterdon,http://force.nj.com/database/pd-dept/kingwood-hunterdon,,,No data found,,,
+"Lebanon Borough, Hunterdon",/database/pd-dept/lebanon-borough-hunterdon,http://force.nj.com/database/pd-dept/lebanon-borough-hunterdon,,,No data found,,,
+"Milford Borough, Hunterdon",/database/pd-dept/milford-borough-hunterdon,http://force.nj.com/database/pd-dept/milford-borough-hunterdon,,,No data found,,,
+"Stockton Borough, Hunterdon",/database/pd-dept/stockton-borough-hunterdon,http://force.nj.com/database/pd-dept/stockton-borough-hunterdon,,,No data found,,,
+"Union, Hunterdon",/database/pd-dept/union-hunterdon,http://force.nj.com/database/pd-dept/union-hunterdon,,,No data found,,,
+"Farmingdale, Monmouth",/database/pd-dept/farmingdale-monmouth,http://force.nj.com/database/pd-dept/farmingdale-monmouth,,,No data found,,,
+"Millstone, Monmouth",/database/pd-dept/millstone-monmouth,http://force.nj.com/database/pd-dept/millstone-monmouth,,,No data found,,,
+"Roosevelt, Monmouth",/database/pd-dept/roosevelt-monmouth,http://force.nj.com/database/pd-dept/roosevelt-monmouth,,,No data found,,,
+"Shrewsbury Township, Monmouth",/database/pd-dept/shrewsbury-township-monmouth,http://force.nj.com/database/pd-dept/shrewsbury-township-monmouth,,,No data found,,,
+"Upper Freehold, Monmouth",/database/pd-dept/upper-freehold-monmouth,http://force.nj.com/database/pd-dept/upper-freehold-monmouth,,,No data found,,,
+"Victory Gardens, Morris",/database/pd-dept/victory-gardens-morris,http://force.nj.com/database/pd-dept/victory-gardens-morris,,,No data found,,,
+"Eagleswood, Ocean",/database/pd-dept/eagleswood-ocean,http://force.nj.com/database/pd-dept/eagleswood-ocean,,,No data found,,,
+"Alloway, Salem",/database/pd-dept/alloway-salem,http://force.nj.com/database/pd-dept/alloway-salem,,,No data found,,,
+"Mannington, Salem",/database/pd-dept/mannington-salem,http://force.nj.com/database/pd-dept/mannington-salem,,,No data found,,,
+"Oldmans, Salem",/database/pd-dept/oldmans-salem,http://force.nj.com/database/pd-dept/oldmans-salem,,,No data found,,,
+"Pilesgrove, Salem",/database/pd-dept/pilesgrove-salem,http://force.nj.com/database/pd-dept/pilesgrove-salem,,,No data found,,,
+"Pittsgrove, Salem",/database/pd-dept/pittsgrove-salem,http://force.nj.com/database/pd-dept/pittsgrove-salem,,,No data found,,,
+"Quinton, Salem",/database/pd-dept/quinton-salem,http://force.nj.com/database/pd-dept/quinton-salem,,,No data found,,,
+"Upper Pittsgrove, Salem",/database/pd-dept/upper-pittsgrove-salem,http://force.nj.com/database/pd-dept/upper-pittsgrove-salem,,,No data found,,,
+"Millstone, Somerset",/database/pd-dept/millstone-somerset,http://force.nj.com/database/pd-dept/millstone-somerset,,,No data found,,,
+"Rocky Hill, Somerset",/database/pd-dept/rocky-hill-somerset,http://force.nj.com/database/pd-dept/rocky-hill-somerset,,,No data found,,,
+"Andover Borough, Sussex",/database/pd-dept/andover-borough-sussex,http://force.nj.com/database/pd-dept/andover-borough-sussex,,,No data found,,,
+"Branchville Borough, Sussex",/database/pd-dept/branchville-borough-sussex,http://force.nj.com/database/pd-dept/branchville-borough-sussex,,,No data found,,,
+"Frankford, Sussex",/database/pd-dept/frankford-sussex,http://force.nj.com/database/pd-dept/frankford-sussex,,,No data found,,,
+"Fredon, Sussex",/database/pd-dept/fredon-sussex,http://force.nj.com/database/pd-dept/fredon-sussex,,,No data found,,,
+"Green, Sussex",/database/pd-dept/green-sussex,http://force.nj.com/database/pd-dept/green-sussex,,,No data found,,,
+"Hampton, Sussex",/database/pd-dept/hampton-sussex,http://force.nj.com/database/pd-dept/hampton-sussex,,,No data found,,,
+"Lafayette, Sussex",/database/pd-dept/lafayette-sussex,http://force.nj.com/database/pd-dept/lafayette-sussex,,,No data found,,,
+"Montague, Sussex",/database/pd-dept/montague-sussex,http://force.nj.com/database/pd-dept/montague-sussex,,,No data found,,,
+"Sandyston, Sussex",/database/pd-dept/sandyston-sussex,http://force.nj.com/database/pd-dept/sandyston-sussex,,,No data found,,,
+"Stillwater, Sussex",/database/pd-dept/stillwater-sussex,http://force.nj.com/database/pd-dept/stillwater-sussex,,,No data found,,,
+"Sussex Borough, Sussex",/database/pd-dept/sussex-borough-sussex,http://force.nj.com/database/pd-dept/sussex-borough-sussex,,,No data found,,,
+"Walpack Township, Sussex",/database/pd-dept/walpack-township-sussex,http://force.nj.com/database/pd-dept/walpack-township-sussex,,,No data found,,,
+"Wantage, Sussex",/database/pd-dept/wantage-sussex,http://force.nj.com/database/pd-dept/wantage-sussex,,,No data found,,,
+"Allamuchy, Warren",/database/pd-dept/allamuchy-warren,http://force.nj.com/database/pd-dept/allamuchy-warren,,,No data found,,,
+"Franklin, Warren",/database/pd-dept/franklin-warren,http://force.nj.com/database/pd-dept/franklin-warren,,,No data found,,,
+"Frelinghuysen, Warren",/database/pd-dept/frelinghuysen-warren,http://force.nj.com/database/pd-dept/frelinghuysen-warren,,,No data found,,,
+"Hardwick Township, Warren",/database/pd-dept/hardwick-township-warren,http://force.nj.com/database/pd-dept/hardwick-township-warren,,,No data found,,,
+"Harmony, Warren",/database/pd-dept/harmony-warren,http://force.nj.com/database/pd-dept/harmony-warren,,,No data found,,,
+"Hope, Warren",/database/pd-dept/hope-warren,http://force.nj.com/database/pd-dept/hope-warren,,,No data found,,,
+"Knowlton Township, Warren",/database/pd-dept/knowlton-township-warren,http://force.nj.com/database/pd-dept/knowlton-township-warren,,,No data found,,,
+"Liberty Township, Warren",/database/pd-dept/liberty-township-warren,http://force.nj.com/database/pd-dept/liberty-township-warren,,,No data found,,,
+"Oxford, Warren",/database/pd-dept/oxford-warren,http://force.nj.com/database/pd-dept/oxford-warren,,,No data found,,,
+"White, Warren",/database/pd-dept/white-warren,http://force.nj.com/database/pd-dept/white-warren,,,No data found,,,
+New Jersey State Police (NJSP),/database/pd-dept/njsp,http://force.nj.com/database/pd-dept/njsp,,,No data found,,,
