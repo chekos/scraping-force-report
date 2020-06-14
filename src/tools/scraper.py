@@ -45,7 +45,8 @@ def get_likelihood_numbers(div_name = 'left'):
     div = race_breakdown.find_element_by_class_name(div_name)
     based_on = div.find_element_by_class_name("important_num2").get_property("innerHTML").strip().replace(",", "")
     likelihood = div.find_element_by_class_name("important_num1").get_property("innerHTML").strip().replace(",", "")
-    return (based_on, likelihood)
+    more_or_less = div.find_elements_by_class_name("important_num2")[-1].get_property("innerHTML").strip()
+    return (based_on, likelihood, more_or_less)
 
 def get_flagging_officer_numbers():
     """Retrieve the 'number of officers that would be flagged in other agencies' from force.nj.com website. These numbers are inside the 'earlywarning' div.
@@ -66,6 +67,19 @@ def get_flagging_officer_numbers():
         third_city_n = elements[5].get_property("innerHTML").strip()
     return (first_city, first_city_n, second_city, second_city_n, third_city, third_city_n)
 
+def get_average_number_of_officers():
+    """Retrieve the average number of full time officers in police dept.
+
+    Returns
+    -------
+    n : str
+       `innerHTML` of right dive in the town_info div.
+    """
+    pd_info = browser.find_element_by_class_name("pd_info")
+    town_info = pd_info.find_element_by_class_name("town_description")
+    return town_info.find_element_by_class_name("right").find_element_by_class_name("town_label").get_property("innerHTML")
+
+
 # render the first page in case it takes a bit to load
 browser.get(BASE_URL + depts_list[0]['relative_url'])
 time.sleep(2)
@@ -79,28 +93,41 @@ for dept in depts_list:
     # get likelihood numbers
     # by population
     try:
-        (prop, number) = get_likelihood_numbers('left')
+        (prop, number, more_or_less) = get_likelihood_numbers('left')
         dept[prop] = number
+        dept['more_or_less_pop'] = more_or_less if 'likely' in more_or_less else 'Not found'
     except:
         dept['population'] = 'Not found'
+        dept['more_or_less'] = 'Not found'
     # by arrests
     try:
-        (prop, number) = get_likelihood_numbers('right')
+        (prop, number, more_or_less) = get_likelihood_numbers('right')
         dept[prop] = number
+        dept['more_or_less_arrests'] = more_or_less if 'likely' in more_or_less else 'Not found'
     except:
         dept['arrests'] = 'Not found'
+        dept['more_or_less'] = 'Not found'
+
     
     # get no of officers that would be flagged in other cities
     try:
         (first_city, first_city_n, second_city, second_city_n, third_city, third_city_n) = get_flagging_officer_numbers()
-        dept[first_city] = first_city_n
-        dept[second_city] = second_city_n
-        dept[third_city] = third_city_n
+        dept[first_city.lower().replace(" ", "_")] = first_city_n
+        dept[second_city.lower().replace(" ", "_")] = second_city_n
+        dept[third_city.lower().replace(" ", "_")] = third_city_n
     except:
-        dept['Los Angeles'] = 'Not found'
-        dept['New York City'] = 'Not found'
-        dept['Chicago'] = 'Not found'
-    
+        dept['Los Angeles'.lower().replace(" ", "_")] = 'Not found'
+        dept['New York City'.lower().replace(" ", "_")] = 'Not found'
+        dept['Chicago'.lower().replace(" ", "_")] = 'Not found'
+
+    # get average no of officers in police dept
+    try:
+        ave_n = get_average_number_of_officers()
+        dept['average_full_time_officers'] = ave_n.split(": ")[-1]
+    except:
+        dept['average_full_time_officers'] = 'Not found'
+
+browser.close()
 data = pd.DataFrame(depts_list)
 data['full_url'] = BASE_URL + data['relative_url']
 
