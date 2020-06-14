@@ -98,7 +98,7 @@ for dept in depts_list:
         dept['more_or_less_pop'] = more_or_less if 'likely' in more_or_less else 'Not found'
     except:
         dept['population'] = 'Not found'
-        dept['more_or_less'] = 'Not found'
+        dept['more_or_less_pop'] = 'Not found'
     # by arrests
     try:
         (prop, number, more_or_less) = get_likelihood_numbers('right')
@@ -106,7 +106,7 @@ for dept in depts_list:
         dept['more_or_less_arrests'] = more_or_less if 'likely' in more_or_less else 'Not found'
     except:
         dept['arrests'] = 'Not found'
-        dept['more_or_less'] = 'Not found'
+        dept['more_or_less_arrests'] = 'Not found'
 
     
     # get no of officers that would be flagged in other cities
