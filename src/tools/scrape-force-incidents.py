@@ -63,7 +63,7 @@ def change_table_length(n):
 # render the first page in case it takes a bit to load
 browser.get(BASE_URL + depts_list[0]["relative_url"])
 time.sleep(2)
-for dept in depts_list[:5]:
+for dept in depts_list:
     browser.get(BASE_URL + dept["relative_url"])
     try:
         print("changing table length...")
